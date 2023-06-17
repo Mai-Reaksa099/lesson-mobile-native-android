@@ -7,7 +7,7 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2425" />
         <entry key="app/src/main/res/layout/activity_login_auth.xml" value="0.4082941427960667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.40729166666666666" />
-        <entry key="app/src/main/res/layout/activity_main_profile.xml" value="0.34416417272338606" />
+        <entry key="app/src/main/res/layout/activity_main_profile.xml" value="0.45" />
         <entry key="app/src/main/res/layout/activity_profile.xml" value="0.4082941427960667" />
         <entry key="app/src/main/res/layout/activity_profile_relative.xml" value="0.4082941427960667" />
         <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.375" />
