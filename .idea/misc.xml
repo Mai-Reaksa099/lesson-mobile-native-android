@@ -3,12 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_home_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_list_provinces.xml" value="0.41822916666666665" />
         <entry key="app/src/main/res/layout/activity_login_auth.xml" value="0.4973958333333333" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.4973958333333333" />
         <entry key="app/src/main/res/layout/activity_main_profile.xml" value="0.45" />
         <entry key="app/src/main/res/layout/activity_profile.xml" value="0.4973958333333333" />
         <entry key="app/src/main/res/layout/activity_profile_relative.xml" value="0.48333333333333334" />
+        <entry key="app/src/main/res/layout/activity_provinces.xml" value="0.41822916666666665" />
         <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.4973958333333333" />
+        <entry key="app/src/main/res/layout/fagment_home.xml" value="0.4192708333333333" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.4192708333333333" />
+        <entry key="app/src/main/res/layout/fragment_provinces.xml" value="0.41822916666666665" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.41822916666666665" />
+        <entry key="app/src/main/res/layout/fragmnet_account.xml" value="0.41822916666666665" />
+        <entry key="app/src/main/res/layout/fragmnet_home_bar.xml" value="0.41822916666666665" />
+        <entry key="app/src/main/res/layout/fragmnet_more.xml" value="0.41822916666666665" />
+        <entry key="app/src/main/res/menu/activity_menu_bar.xml" value="0.41822916666666665" />
         <entry key="app/src/main/res/menu/menu.xml" value="0.4192708333333333" />
       </map>
     </option>

@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">iteapp</string>
     <string name="name">Name</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="map" translatable="false">Map</string>
+    <string name="account">Account</string>
+    <string name="more">More</string>
+
 </resources>

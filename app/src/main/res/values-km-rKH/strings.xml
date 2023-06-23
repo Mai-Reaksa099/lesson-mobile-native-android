@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="name">ឈ្មោះ</string>
+    <string name="home">ភូមិ</string>
+    <string name="search">ស្វែងរក</string>
+    <string name="map" >ទីតាំង</string>
+    <string name="account">ឈ្មោះ</string>
+    <string name="more">ផ្សេងទៀត</string>
+
 </resources>

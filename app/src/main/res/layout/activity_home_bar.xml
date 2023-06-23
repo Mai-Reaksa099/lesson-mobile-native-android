@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fmHome"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        tools:ignore="Suspicious0dp"/>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        app:menu="@menu/activity_menu_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        />
+</LinearLayout>
